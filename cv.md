@@ -11,4 +11,4 @@ Training: JS, HTML, CSS by Epam
 
 Education: 2004-2009 Russian Academy of National Economy and Public Administration (ex. VVAGS), specialty: Applied Informatics in Economics.
 
-English: **A2**
+English: **A2**Can understand sentences and frequently used expressions related to areas of most immediate relevance.
