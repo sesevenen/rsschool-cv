@@ -4,11 +4,10 @@ body {
 
 div {
     max-width: 1024px; 
-    text-align: right;
-<<<<<<< HEAD
-    color: green;
-=======
-    color: blue;
->>>>>>> rsschool-cv-html
+    text-align: left;
+}
+
+a {
+    font-weight: bold;
 }
 
