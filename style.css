@@ -4,7 +4,10 @@ body {
 
 div {
     max-width: 1024px; 
-    text-align: right;
-    color: brown;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
 }
 
